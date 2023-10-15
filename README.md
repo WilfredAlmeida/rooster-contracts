@@ -3,7 +3,8 @@
 This repository houses the smart contract for Rooster and it's example usage.
 
 ## Rooster Architecture
---DIAGRAM HERE--
+![image](https://github.com/WilfredAlmeida/rooster-contracts/assets/60785452/2f80c33d-c7e8-432d-b3ab-675bc902ced6)
+
 
 Any smart contract willing to send push notifications does a Cross Program Invocation (CPI) call the Rooster smart contract.
 
